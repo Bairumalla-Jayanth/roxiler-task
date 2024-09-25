@@ -21,3 +21,8 @@
 5. By default when app is launched it will show the details related to march month.
 6. You can check the products by entering title/description/price in the searchbar.
 7. You can check the deatails of the desired month using the dropdown list.
+
+#TECHNOLOGIES USED
+1. This application is built using MERN- MongoDB, Express.Js, Node.Js and React.Js.
+2. Used CSS for styling.
+3. And also HTML when required.
