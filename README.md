@@ -3,15 +3,15 @@
 #Checkout these Folders for the code:-
 
 Backend>>
-     Controllers
-     Models
-     Routes
+     Controllers,
+     Models,
+     Routes and
    index.js
 
 Frontend>>src>
-        Components
-        Services
-     App.js
+        Components,
+        Services,
+     App.js and
      App.css
       
 
