@@ -1,5 +1,20 @@
 # roxiler-task
 
+#Checkout these Folders for the code:-
+
+Backend>>
+     Controllers
+     Models
+     Routes
+   index.js
+
+Frontend>>src>
+        Components
+        Services
+     App.js
+     App.css
+      
+
 #BACKEND
 
 1. Established a connection with the database.
