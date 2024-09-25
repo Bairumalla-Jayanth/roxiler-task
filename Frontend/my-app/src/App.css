@@ -1,0 +1,43 @@
+/* implementing styles for the app */
+
+
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+select, input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 0 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:disabled {
+  background-color: #ccc;
+}

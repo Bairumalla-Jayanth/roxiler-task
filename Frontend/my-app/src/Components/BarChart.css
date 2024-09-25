@@ -1,0 +1,29 @@
+/* Applying styles for Bar chart*/
+
+.bar-chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #ececd8;
+    border: 5px solid #1d1616;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+    width: 100%;
+}
+
+
+.bar-chart-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.bar-chart-container canvas {
+    max-width: 100% !important;
+    height: auto !important;
+}
